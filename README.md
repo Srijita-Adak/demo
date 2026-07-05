@@ -1,4 +1,4 @@
 # demo
 This is my first Git Repository.
 <br>
-The auther is Srijita.
+The auther is Srijita(apna college).
